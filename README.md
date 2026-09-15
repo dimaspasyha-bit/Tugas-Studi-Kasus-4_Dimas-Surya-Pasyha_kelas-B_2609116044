@@ -37,7 +37,24 @@ PEMBAHASAN
    <img width="236" height="20" alt="image" src="https://github.com/user-attachments/assets/a4dabfad-e00f-4cf4-9080-7486b53e1e2e" />
 
 
+OUTPUT
 
+1. input 1 dan 2(penambahan kategori)
+<img width="325" height="257" alt="image" src="https://github.com/user-attachments/assets/ac6bee1a-bf15-4eac-8c52-7baca06bc438" />
 
+2. input 1(perbaruan data)
+<img width="415" height="221" alt="image" src="https://github.com/user-attachments/assets/01b1a183-6c2b-4536-acf5-9ce5f14f8e27" />
 
-   
+3. input 3 (perbaruan stok) dan input 4 (perbaruan harga)
+<img width="296" height="262" alt="image" src="https://github.com/user-attachments/assets/d0739d83-b7b6-43f1-b7a0-9bfefd16081e" />
+
+4. input 1(melihat data terbaru setelah ubah stok dan harga) dan input 5 untuk mengapus kategori
+<img width="419" height="245" alt="image" src="https://github.com/user-attachments/assets/2705dcbe-bf07-465f-8e92-63531831fe87" />
+
+5. input 1 (menampilkan data produk terakhir) dan input 6 (mengakhiri program)
+<img width="332" height="246" alt="image" src="https://github.com/user-attachments/assets/77bcb760-98c3-443c-b0a9-322ad7a8da8a" />
+
+6.kesalahan input
+
+<img width="211" height="242" alt="image" src="https://github.com/user-attachments/assets/f544dd4e-d40c-4804-87f1-d0c2a87cbf4f" />
+
